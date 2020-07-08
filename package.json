@@ -1,5 +1,8 @@
 {
   "name": "app_profiler_demo",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "speedscope": "^1.6.0"
+  }
 }
