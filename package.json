@@ -4,5 +4,8 @@
   "dependencies": {},
   "devDependencies": {
     "speedscope": "^1.6.0"
-  }
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }
